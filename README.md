@@ -2,7 +2,7 @@
 
 [繁體中文的README點我](zh_TW_README.md)
 
-A robust, Selenium-based web scraper designed to efficiently extract tweet data from X.com (formerly Twitter). This tool is built to be resilient against anti-scraping measures by leveraging a browser profile, allowing for persistent login sessions. It focuses on gathering essential tweet information: the content, post time, and direct URL.
+A robust, SeleniumBase-based web scraper designed to efficiently extract tweet data from X.com (formerly Twitter). This tool is built to be resilient against anti-scraping measures by leveraging a browser profile, allowing for persistent login sessions. It focuses on gathering essential tweet information: the content, post time, and direct URL.
 
 ## Key Features
 
